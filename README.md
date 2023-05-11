@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**FaisalDawod/FaisalDawod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Faisal and I'm a software engineering student.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages: C, C++, C#, Python, Java, Kotlin
+- Web development: HTML, CSS, JavaScript
+- Databases: SQLite, Oracle SQL
+- Other tools: Git, Linux, VSCode
+
+## 🌱 Learning
+
+I'm always eager to learn new skills and expand my knowledge. Currently, I'm focusing on the following areas:
+
+- Operating systems
+- Server technologies
+- Mobile application development
+
+I believe that staying up-to-date with the latest technologies and trends is essential in the fast-paced field of software engineering. By continuously learning and improving my skills, I aim to deliver the best possible solutions for my clients and users.
+
+## 🔗 Connect with me
+
+If you want to chat or collaborate on a project, feel free to reach out to me on:
+
+- [LinkedIn](https://www.linkedin.com/in/faisal-dawod-170603211)
+- [Twitter](https://twitter.com/faisaldawod55)
