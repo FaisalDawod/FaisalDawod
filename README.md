@@ -7,7 +7,7 @@ My name is Faisal and I'm a software engineering student.
 - Programming languages: C, C++, C#, Python, Java, Kotlin
 - Web development: HTML, CSS, JavaScript, Bootstrap
 - Databases: SQLite, Oracle SQL
-- Other tools: Git, Linux, VSCode
+- Other tools: Git, Linux, VSCode, Android Studio, IntelliJ
 
 ## 🌱 Learning
 
