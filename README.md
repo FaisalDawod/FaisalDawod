@@ -16,6 +16,8 @@ I'm always eager to learn new skills and expand my knowledge. Currently, I'm foc
 - Operating systems
 - Server technologies
 - Mobile application development
+- Artificial intelligence
+- Machine Learning
 
 I believe that staying up-to-date with the latest technologies and trends is essential in the fast-paced field of software engineering. By continuously learning and improving my skills, I aim to deliver the best possible solutions for my clients and users.
 
