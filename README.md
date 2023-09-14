@@ -2,12 +2,13 @@
 
 My name is Faisal and I'm a software engineering student.
 
-## 💻 Skills
+## 💻 Technical Skills
 
-- Programming languages: C, C++, C#, Python, Java, Kotlin
+- Programming languages: C, C++, C#, Python, Java, Kotlin, Dart
 - Web development: HTML, CSS, JavaScript, Bootstrap
 - Databases: SQLite, Oracle SQL
-- Other tools: Git, Linux, VSCode, Atom, Android Studio, IntelliJ, PyCharm
+- Framworks: Flutter
+- Other tools: Git, Linux, Visual Studio, VSCode, Atom, Android Studio, IntelliJ, PyCharm, PowerShell
 
 ## 🌱 Learning
 
@@ -27,4 +28,3 @@ I believe that staying up-to-date with the latest technologies and trends is ess
 If you want to chat or collaborate on a project, feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/faisal-dawod-170603211)
-- [Twitter](https://twitter.com/faisaldawod55)
