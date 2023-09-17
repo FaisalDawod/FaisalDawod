@@ -28,3 +28,4 @@ I believe that staying up-to-date with the latest technologies and trends is ess
 If you want to chat or collaborate on a project, feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/faisal-dawod-170603211)
+- [X](https://www.twitter.com/@FaisalDawod55)
