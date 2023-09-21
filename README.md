@@ -20,6 +20,7 @@ I'm always eager to learn new skills and expand my knowledge. Currently, I'm foc
 - Artificial intelligence
 - Machine Learning
 - Security
+- Automation
 
 I believe that staying up-to-date with the latest technologies and trends is essential in the fast-paced field of software engineering. By continuously learning and improving my skills, I aim to deliver the best possible solutions for my clients and users.
 
@@ -28,4 +29,4 @@ I believe that staying up-to-date with the latest technologies and trends is ess
 If you want to chat or collaborate on a project, feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/faisal-dawod-170603211)
-- [X](https://www.twitter.com/@FaisalDawod55)
+- [Twitter](https://www.twitter.com/@FaisalDawod55)
