@@ -8,7 +8,9 @@ My name is Faisal and I'm a software engineering student.
 - Web development: HTML, CSS, JavaScript, Bootstrap
 - Databases: SQLite, Oracle SQL
 - Framworks: Flutter
-- Other tools: Git, Linux, Visual Studio, VSCode, Atom, Android Studio, IntelliJ, PyCharm, PowerShell
+- Shell: PowerShell, Z Shell, Unix Shell, Bourne Shell
+- Operating System: Linux, Windows
+- Other tools: Git, Visual Studio, VSCode, Atom, Android Studio, IntelliJ, PyCharm
 
 ## 🌱 Learning
 
