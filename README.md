@@ -23,6 +23,7 @@ I'm always eager to learn new skills and expand my knowledge. Currently, I'm foc
 - Machine Learning
 - Security
 - Automation
+- Data Communication and Networks
 
 I believe that staying up-to-date with the latest technologies and trends is essential in the fast-paced field of software engineering. By continuously learning and improving my skills, I aim to deliver the best possible solutions for my clients and users.
 
