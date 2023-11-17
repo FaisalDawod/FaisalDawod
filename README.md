@@ -10,6 +10,7 @@ My name is Faisal and I'm a software engineering student.
 - Framworks: Flutter
 - Shell: PowerShell, Z Shell, Unix Shell, Bourne Shell
 - Operating System: Linux, Windows
+- UML Diagrams: Activity Diagram, Deployment Diagram, Package Diagram
 - Other tools: Git, Visual Studio, VSCode, Atom, Android Studio, IntelliJ, PyCharm
 
 ## 🌱 Learning
