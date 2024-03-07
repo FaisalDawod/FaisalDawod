@@ -2,7 +2,7 @@
 
 My name is Faisal and I'm a software engineering student.
 
-## 💻 <font color="red"> Technical Skills </font>
+## 💻 Technical Skills
 
 - Programming languages: C, C++, C#, Python, Java, Kotlin, Dart
 - Web development: HTML, CSS, JavaScript, Bootstrap
