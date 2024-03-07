@@ -13,3 +13,5 @@ My name is Faisal and I'm a software engineering student.<br><br>🌱 Learning<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalDawod&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=falselayout=compact)
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=FaisalDawod&icon=0&color=0)](https://visitcount.itsvg.in)
