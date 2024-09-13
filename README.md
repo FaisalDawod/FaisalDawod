@@ -1,5 +1,5 @@
 # 💫 About Me
-My name is Faisal and I'm a software engineering student.<br><br>🌱 Learning<br><br>I'm always eager to learn new skills and expand my knowledge. Currently, I'm focusing on the following areas:<br><br>Operating systems<br>Server technologies<br>Mobile application development<br>Artificial intelligence<br>Machine Learning<br>Security<br>Automation<br>Data Communication and Networks<br><br>I believe that staying up-to-date with the latest technologies and trends is essential in the fast-paced field of software engineering. By continuously learning and improving my skills, I aim to deliver the best possible solutions for my clients and users.
+My name is Faisal and I'm a software engineering junior.<br><br>🌱 Learning<br><br>I'm always eager to learn new skills and expand my knowledge. Currently, I'm focusing on the following areas:<br><br>Operating systems<br>Server technologies<br>Mobile application development<br>Artificial intelligence<br>Machine Learning<br>Security<br>Automation<br>Data Communication and Networks<br><br>I believe that staying up-to-date with the latest technologies and trends is essential in the fast-paced field of software engineering. By continuously learning and improving my skills, I aim to deliver the best possible solutions for my clients and users.
 
 
 ## 🌐 Socials
